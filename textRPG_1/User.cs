@@ -22,11 +22,11 @@ namespace textRPG_1
 
             // 장착 아이템의 추가 스탯 계산
             int addAttack = GameManager.Instance.inventory.userInventory
-                .Where(item => item.isEquipped && item.type == "attack")
+                .Where(item => item.isEquipped && item.type == TYPE.attack)
                 .Sum(item => item.stat);
 
             int addDefense = GameManager.Instance.inventory.userInventory
-                .Where(item => item.isEquipped && item.type == "defense")
+                .Where(item => item.isEquipped && item.type == TYPE.defense)
                 .Sum(item => item.stat);
 
             Console.WriteLine("Lv. " + Level.ToString("D2"));

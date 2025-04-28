@@ -24,7 +24,7 @@ namespace textRPG_1
                 for (int i = 0; i < itemlist.Count; i++)
                 {
                     Item shopItem = itemlist[i];
-                    string type = (shopItem.type == "attack") ? "공격력" : "방어력";
+                    string type = (shopItem.type == TYPE.attack) ? "공격력" : "방어력";
 
                     bool ishave = GameManager.Instance.inventory.userInventory
                         .Any(invItem => invItem.name == shopItem.name);
