@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Ctest\\textRPG_1\\textRPG_1.csproj",
+      "projectUniqueName": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\textRPG_1.csproj",
       "projectName": "textRPG_1",
-      "projectPath": "E:\\Ctest\\textRPG_1\\textRPG_1.csproj",
+      "projectPath": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\textRPG_1.csproj",
       "packagesPath": "C:\\Users\\dlfjs\\.nuget\\packages\\",
-      "outputPath": "E:\\Ctest\\textRPG_1\\obj\\",
+      "outputPath": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
