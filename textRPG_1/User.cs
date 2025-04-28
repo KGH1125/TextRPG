@@ -16,13 +16,13 @@ namespace textRPG_1
         public int HP { get; set; } = 100;
         public int Money { get; set; } = 1500;
 
-        public void ShowUserInpo()
+        public void ShowUserInfo()
         {
             Console.Clear();
 
             // 장착 아이템의 추가 스탯 계산
             int addAttack = GameManager.Instance.inventory.userInventory
-                .Where(item => item.isEquipped && item.type == "attak")
+                .Where(item => item.isEquipped && item.type == "attack")
                 .Sum(item => item.stat);
 
             int addDefense = GameManager.Instance.inventory.userInventory

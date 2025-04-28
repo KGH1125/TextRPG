@@ -24,13 +24,13 @@ namespace textRPG_1
                 for (int i = 0; i < itemlist.Count; i++)
                 {
                     Item shopItem = itemlist[i];
-                    string type = (shopItem.type == "attak") ? "공격력" : "방어력";
+                    string type = (shopItem.type == "attack") ? "공격력" : "방어력";
 
                     bool ishave = GameManager.Instance.inventory.userInventory
                         .Any(invItem => invItem.name == shopItem.name);
 
                     string status = ishave ? "구매 완료" : $"{shopItem.price} G";
-                    Console.WriteLine($"- {i + 1} {shopItem.name} | {type} + {shopItem.stat} | {shopItem.inpo} | {status}");
+                    Console.WriteLine($"- {i + 1} {shopItem.name} | {type} + {shopItem.stat} | {shopItem.info} | {status}");
 
                     validInputs.Add(i + 1);
                 }

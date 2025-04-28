@@ -32,7 +32,7 @@
                 switch (GetValidInput(1, 2, 3))//1.캐릭터정보 2.인벤토리 3.상점
                 {
                     case 1:
-                        gm.user.ShowUserInpo();
+                        gm.user.ShowUserInfo();
                         if (GetValidInput(0) == 0) { gm.Gotitle(); }
                         break;
 
@@ -91,12 +91,7 @@
                 {
                     Console.WriteLine("잘못된 입력입니다. 다시 입력해주세요.");
                 }
-
             }
         }
-        
-
-
     }
-
 }

@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Ctest\\textRPG_1\\",
+  "WorkspaceRootPath": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\textrpg_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:textrpg_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|e:\\ctest\\textrpg_1\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|c:\\users\\dlfjs\\onedrive\\documents\\github\\textrpg\\textrpg_1\\textrpg_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DF3A313-966D-4796-9AB7-DFDB7CF8B3CC}|textRPG_1.csproj|solutionrelative:textrpg_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,56 +38,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "textRPG_1",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\textRPG_1.csproj",
+              "DocumentIndex": 6,
+              "Title": "textRPG_1.csproj",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\textRPG_1.csproj",
               "RelativeDocumentMoniker": "textRPG_1.csproj",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\textRPG_1.csproj",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\textRPG_1.csproj",
               "RelativeToolTip": "textRPG_1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-18T01:52:44.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T01:52:44.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ItemManager.cs",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\ItemManager.cs",
               "RelativeDocumentMoniker": "ItemManager.cs",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\ItemManager.cs",
               "RelativeToolTip": "ItemManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T06:07:59.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\Inventory.cs",
               "RelativeDocumentMoniker": "Inventory.cs",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\Inventory.cs",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\Inventory.cs",
               "RelativeToolTip": "Inventory.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAwDgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDQAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T01:25:54.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Shop.cs",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\Shop.cs",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\Shop.cs",
               "RelativeDocumentMoniker": "Shop.cs",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\Shop.cs",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\Shop.cs",
               "RelativeToolTip": "Shop.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwCMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAD4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T08:52:35.311Z",
               "EditorCaption": ""
@@ -96,37 +95,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Item.cs",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\Item.cs",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T08:52:27.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\User.cs",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\User.cs",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\User.cs",
               "RelativeToolTip": "User.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T08:51:18.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\Ctest\\textRPG_1\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\GameManager.cs",
               "RelativeDocumentMoniker": "GameManager.cs",
-              "ToolTip": "E:\\Ctest\\textRPG_1\\GameManager.cs",
+              "ToolTip": "C:\\Users\\dlfjs\\OneDrive\\Documents\\GitHub\\TextRPG\\textRPG_1\\GameManager.cs",
               "RelativeToolTip": "GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T08:47:08.083Z",
               "EditorCaption": ""

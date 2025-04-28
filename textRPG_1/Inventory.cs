@@ -20,9 +20,9 @@ namespace textRPG_1
             {
                 for (int i = 0; i < userInventory.Count; i++)
                 {
-                    string type = (userInventory[i].type == "attak") ? "공격력" : "방어력";
+                    string type = (userInventory[i].type == TYPE.attack) ? "공격력" : "방어력";
                     string isEq = (userInventory[i].isEquipped == true) ? "[E]" : "";
-                    Console.WriteLine($"- {isEq} {userInventory[i].name} | {type} + {userInventory[i].stat} | {userInventory[i].inpo}");
+                    Console.WriteLine($"- {isEq} {userInventory[i].name} | {type} + {userInventory[i].stat} | {userInventory[i].info}");
                 }
             }
 
@@ -48,9 +48,9 @@ namespace textRPG_1
                 Console.WriteLine("[장착 관리]");
                 for (int i = 0; i < userInventory.Count; i++)
                 {
-                    string type = (userInventory[i].type == "attak") ? "공격력" : "방어력";
+                    string type = (userInventory[i].type == TYPE.attack) ? "공격력" : "방어력";
                     string isEq = (userInventory[i].isEquipped == true) ? "[E]" : "";
-                    Console.WriteLine($"{i + 1}. {isEq} {userInventory[i].name} | {type} + {userInventory[i].stat} | {userInventory[i].inpo}");
+                    Console.WriteLine($"{i + 1}. {isEq} {userInventory[i].name} | {type} + {userInventory[i].stat} | {userInventory[i].info}");
                 }
                 Console.WriteLine("0. 나가기");
 
